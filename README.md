@@ -1,4 +1,4 @@
-### Heyo, Justin here 👋
+### Heyoo 👋
 
 - 💻 I'm a computer science enthusiast with a near-insatiable desire
   to understand and work with computers.
